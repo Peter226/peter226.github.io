@@ -1,1 +1,1 @@
-window.location.href = "./portfolio"
+//window.location.href = "./portfolio"
